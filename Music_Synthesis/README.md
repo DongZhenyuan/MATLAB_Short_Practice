@@ -9,16 +9,16 @@ Tsinghua EE Matlab Project
 
 * `音乐合成大作业.pdf`：作业说明文档
 * `music_1.m`：练习1
-* `music_1.m`：练习2
-* `music_1.m`：练习3
-* `music_1.m`：练习4
-* `music_1.m`：练习5
-* `music_1.m`：练习6
-* `music_1.m`：练习7
-* `music_1.m`：练习8
-* `music_1.m`：练习9
-* `music_1.m`：练习10
-* `music_1.m`：练习11
+* `music_2.m`：练习2
+* `music_3.m`：练习3
+* `music_4.m`：练习4
+* `music_5.m`：练习5
+* `music_6.m`：练习6
+* `music_7.m`：练习7
+* `music_8.m`：练习8
+* `music_9.m`：练习9
+* `music_10.m`：练习10
+* `music_11.m`：练习11
 * `get_note.m`：创建乐音的函数
 * `normalize.m`：将一个矢量归一化的函数（get_note.m中用到）
 * `is_member.m`：判断一个数是否为一个数组的成员（允许一定误差）的函数（music_9.m中用到）
