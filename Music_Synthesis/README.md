@@ -1,4 +1,4 @@
-# Muisc Synthesis
+# Music Synthesis
 
 Tsinghua EE Matlab Project
 
