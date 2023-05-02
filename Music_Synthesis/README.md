@@ -1,5 +1,6 @@
 # Muisc Synthesis
-版权所有 Tsinghua EE Matlab Project
+Tsinghua EE Matlab Project
+
 2022年3月2日，在B站观看一个MATLAB演奏音乐的教学视频，在视频下的评论区找到了这个来自GitHub的文件链接
 
 ------------------------------------------------------------------------------------------
