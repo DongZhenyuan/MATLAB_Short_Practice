@@ -1,0 +1,3 @@
+### RGB denoising ###
+	No noise was added, cannot compute PSNR
+	Runtime 0.6685s
